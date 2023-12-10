@@ -1,4 +1,4 @@
-# Gradient Descent Implementation for Breast Cancer Classification
+# Gradient Descent Implementation
 
 ## Task
 Implement batch gradient descent from scratch to perform classification between benign or malignant tumors using the Breast Cancer dataset from Scikit-learn datasets.
