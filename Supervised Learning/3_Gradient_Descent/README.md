@@ -1,0 +1,25 @@
+# Gradient Descent Implementation for Breast Cancer Classification
+
+## Task
+Implement batch gradient descent from scratch to perform classification between benign or malignant tumors using the Breast Cancer dataset from Scikit-learn datasets.
+
+## Dataset
+The breast cancer dataset is part of the datasets provided by Scikit-learn. The dataset classifies tumors as benign or malignant based on their characteristics. The goal is to build a model that accurately classifies tumors as cancerous or not based on these features.
+
+## Gradient Descent Algorithm
+Gradient descent is a powerful optimization algorithm commonly used in machine learning to find optimal parameters that minimize a given cost function. The core idea is to iteratively update parameters in the direction of the steepest descent of the cost function until a minimum is reached.
+
+### Batch Gradient Descent
+Batch gradient descent is employed to minimize a cost function by iteratively adjusting model parameters in the direction of the negative gradient of the cost function. It earns its "batch" name because it computes the gradient over the entire training set at each iteration.
+
+## Working of Gradient Descent
+Gradient Descent optimizes a machine learning model's cost function by iteratively adjusting model weights based on the negative gradient of the Mean Squared Error (MSE) loss function. This process continues until a local minimum of the cost function is found.
+
+**Algorithm Steps:**
+1. Initialize model weights randomly.
+2. Compute the gradient of the MSE loss function.
+3. Update weights using the gradient descent update rule.
+4. Repeat steps 2-3 until convergence or reaching a maximum number of iterations.
+
+## Summarization
+Gradient Descent is a vital optimization algorithm in machine learning, finding the local minimum of the cost function by iteratively adjusting model parameters. The learning rate, a crucial hyperparameter, requires careful tuning to avoid divergence or slow convergence.
