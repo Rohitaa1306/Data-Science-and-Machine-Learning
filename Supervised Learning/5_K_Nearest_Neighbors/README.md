@@ -41,14 +41,3 @@ K-Nearest Neighbors (KNN) is a non-parametric and supervised machine learning al
 
 6. **Evaluate the Model:**
    - Assess the model's performance using metrics such as accuracy, precision, recall, or mean squared error.
-
-### Distance Metrics
-- **Euclidean Distance:**
-  - Measures the straight-line distance between two points in n-dimensional space.
-
-- **Manhattan Distance:**
-  - Measures the sum of absolute differences between corresponding coordinates.
-
-- **Minkowski Distance:**
-  - Generalization of Euclidean and Manhattan distances, with a parameter (p) determining the order of the distance.
-
