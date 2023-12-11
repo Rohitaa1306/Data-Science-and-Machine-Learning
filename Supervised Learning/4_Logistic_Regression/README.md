@@ -8,9 +8,9 @@ The sigmoid function, defined as σ(z) = 1 / (1 + e^(-z)), is employed for its s
 
 ### Loss and Gradient Descent
 The logistic regression model is trained using gradient descent to minimize the cross-entropy loss function. The cost function is given by:
-
+$$
 \[ J(\theta) = -\frac{1}{m}\sum_{i=1}^{m}[y^{(i)}\log(h_\theta(x^{(i)})) + (1 - y^{(i)})\log(1 - h_\theta(x^{(i)}))] \]
-
+$$
 where \(m\) is the number of samples, \(y^{(i)}\) is the true label for sample \(i\), \(h_\theta(x^{(i)})\) is the predicted label for sample \(i\), and \(\theta\) is the vector of weights.
 
 ## Logistic Regression Model
