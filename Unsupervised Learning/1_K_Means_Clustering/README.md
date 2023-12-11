@@ -23,8 +23,6 @@ The target variable is the species of iris, categorized into three classes:
 
 ## Code Overview
 
-## Code Overview
-
 ### 1. Data Loading and Visualization
 
 The code starts by loading the Iris dataset and creating a scatter plot to visualize the distribution of iris flowers based on sepal length and sepal width.
@@ -52,19 +50,19 @@ The code generates a plot illustrating how the Mean Squared Error (MSE) changes 
 4. Repeat steps 2 and 3 until convergence or a maximum number of iterations is reached.
 5. Output final cluster centroids and data point assignments.
    
-# Mathematical Formulas
+## Mathematical Formulas
 
-## Initialization of Centroids
+### Initialization of Centroids
 C_old = initialize_centroids()
 
-## Calculation of New Centroids
+### Calculation of New Centroids
 C_new = new_centroids(C_old)
 
-## Euclidean Distance
+### Euclidean Distance
 distance(a, b) = square_root(sum((a_i - b_i)^2 for i in range(n)))
 
-## Clustering
+### Clustering
 clustering(x, centroids) = argmin(distance(x, centroid) for centroid in centroids)
 
-## Mean Squared Error (MSE) for Each Cluster
+### Mean Squared Error (MSE) for Each Cluster
 mse_classes(centroids) = sum(sum(0.5 * ||centroid - a||^2 for a in A_i) for i in range(k))
