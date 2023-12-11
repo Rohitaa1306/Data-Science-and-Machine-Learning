@@ -32,5 +32,5 @@ The idea behind decision tree is to recursively split the data into subsets base
 
 The decision tree can be represented as a flowchart-like structure where each internal node represents a test on an input feature, each branch represents the outcome of the test, and each leaf node represents a class label or a regression value. The decision rule at each internal node is simply a threshold on the input feature, and the decision boundary between two classes is a hyperplane perpendicular to the feature axis.
 
-## Conclusion
+## Conclusion:
 Overall, the decision tree is a powerful and interpretable algorithm that can handle both categorical and numerical input features and can capture complex nonlinear relationships between the input features and the target variable. However, it is prone to overfitting when the tree is too deep or when the training set is too small, and it may fail to capture interactions between different input features. Therefore, it is often used in ensemble methods such as random forests or boosting to improve its performance and robustness.
