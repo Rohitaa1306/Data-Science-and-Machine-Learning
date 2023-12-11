@@ -2,7 +2,7 @@
 
 ## Designing a Single Neuron for Probability Prediction
 
-We aim to create a single neuron model for predicting class probabilities instead of deterministic labels. The chosen activation function is the sigmoid function due to its differentiable nature and its suitability for transforming pre-activation values into probability representations.
+We aim to create a single neuron model for predicting class probabilities instead of deterministic labels. 
 
 ### The Sigmoid Activation Function
 
@@ -11,14 +11,6 @@ The sigmoid function, a differentiable function with a range in [0, 1], is emplo
 ### Loss and Gradient Descent
 
 The logistic regression model is trained using gradient descent to minimize the cross-entropy loss function. The cost function penalizes the model heavily for high-confidence incorrect predictions, and the goal is to find the values of the weights that minimize this cost function.
-
-## Logistic Regression Model
-
-Building a logistic regression model from scratch involves using a sigmoid function to map input features to the probability of the positive class.
-
-### Logistic Regression Algorithm
-
-Logistic regression is a binary classification algorithm used to predict the probability of a binary outcome given a set of input features. It is commonly used in machine learning applications such as image recognition, natural language processing, and medical diagnosis.
 
 ### Logistic Regression Implementation on Breast Cancer Dataset
 
