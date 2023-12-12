@@ -38,17 +38,16 @@ Data scientists use machine learning as a tool to extract insights and identify 
 
 ### Reinforcement Learning
 
-- Q Learning
+- Q-Learning
 - Deep Reinforcement Learning
 
 ## Datasets
 
-All datasets used in this work are publicly available. The source and description of each dataset used are provided within the respective model.
+All datasets used in this work are publicly available. The description of each dataset used are provided within the respective model.
 
 ## Tools and Packages
 
 - Python
-- Visual Studio Code
 - Jupyter Notebooks
 - Scikit-learn
 - TensorFlow
@@ -58,7 +57,3 @@ All datasets used in this work are publicly available. The source and descriptio
 - Pandas
 - Seaborn
 
-## About the Author
-
-**Rohitaa Ravikumar**
-- Graduate student in the department of Electrical and Computer Engineering at Rice University.
