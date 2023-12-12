@@ -2,7 +2,7 @@
 
 Supervised learning is a machine learning paradigm where the algorithm is trained on a labeled dataset, meaning that each input data point is associated with a corresponding output label. The goal is for the algorithm to learn a mapping from inputs to outputs, enabling it to make predictions or classifications on new, unseen data.
 
-![Supervised Learning](SupervisedLearning/SupervisedLearning.png)
+![Supervised Learning](SupervisedLearning.png)
 
 #### Classification
 
