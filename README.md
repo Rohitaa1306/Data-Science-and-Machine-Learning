@@ -1,4 +1,4 @@
-![Data Science and ML](Data Science and Machine Learning.jpg)
+![Data Science and ML](ml.jpg)
 
 # Data-Science-and-Machine-Learning
 
