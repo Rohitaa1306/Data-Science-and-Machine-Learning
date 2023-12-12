@@ -1,4 +1,4 @@
-# Multilayer Perceptron (Deep Neural Network) Documentation
+# Deep Neural Network
 
 ## Tasks
 1. Build a multilayer feedforward network from scratch and implement it for the Fashion MNIST classification problem.
