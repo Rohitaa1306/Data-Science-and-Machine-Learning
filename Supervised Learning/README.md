@@ -13,7 +13,7 @@ This repository contains code and resources for implementing and understanding v
 8. [Ensemble Learning](#ensemble-learning)
 
 ## Linear Regression
-Linear regression is a fundamental algorithm for modeling the relationship between a dependent variable and one or more independent variables. The repository includes code for implementing linear regression models, along with examples for better understanding.
+Linear regression is a fundamental algorithm for modeling the relationship between a dependent variable and one or more independent variables. The repository includes code for implementing linear regression models, along with example for better understanding.
 
 ## Gradient Descent
 Gradient descent is an optimization algorithm used to minimize the error of a model. This section provides implementations of gradient descent for various types of models, along with explanations and visualizations.
@@ -25,10 +25,10 @@ Logistic regression is commonly used for binary classification problems. The cod
 Neural networks are the backbone of deep learning. This section includes code for building and training basic neural networks using popular frameworks like TensorFlow.
 
 ## Support Vector Machines
-Support Vector Machines (SVMs) are powerful classifiers that work well for both linear and non-linear data. The repository contains code for implementing SVMs and examples of their applications.
+Support Vector Machines (SVMs) are powerful classifiers that work well for both linear and non-linear data. The repository contains code for implementing SVMs and example of their application.
 
 ## k-Nearest Neighbors
-k-Nearest Neighbors is a simple and effective algorithm for classification and regression tasks. The code in this section demonstrates how to implement k-NN and provides examples for practical use.
+k-Nearest Neighbors is a simple and effective algorithm for classification and regression tasks. The code in this section demonstrates how to implement k-NN and provides example for practical use.
 
 ## Decision/Regression Trees
 Decision trees are versatile algorithms for both classification and regression. This section includes code for building decision trees, visualizing them, and using them for prediction.
