@@ -1,6 +1,6 @@
 ![Data Science and ML](ml.jpg)
 
-# Data-Science-and-Machine-Learning
+# Data Science and Machine Learning
 
 This repository serves as a comprehensive portfolio for the graduate class "INDE 577 - Data Science and Machine Learning" at Rice University, Fall 2023.
 
