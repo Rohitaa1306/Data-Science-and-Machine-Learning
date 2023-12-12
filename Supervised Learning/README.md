@@ -42,7 +42,7 @@ This repository contains code and resources for implementing and understanding v
 
 ## Table of Contents
 1. [Perceptron](#1_Model_Building_and_Error_Analysis)
-2. [Linear Regression](#Supervised Learning/2_Linear_Regression)
+2. [Linear Regression](#2_Linear_Regression)
 3. [Gradient Descent](#3_Gradient_Descent)
 4. [Logistic Regression](#4_Logistic_Regression)
 5. [K-Nearest Neighbors](#5_K_Nearest_Neighbors)
