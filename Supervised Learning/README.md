@@ -1,4 +1,4 @@
-# Supervised Learning Readme
+# Supervised Learning 
 
 This repository contains code and resources for implementing and understanding various supervised learning algorithms. The focus is on model building, error analysis, and practical applications of the following algorithms:
 
