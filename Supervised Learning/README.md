@@ -41,15 +41,15 @@ The algorithm adjusts the values of w and b during training to minimize the diff
 This repository contains code and resources for implementing and understanding various supervised learning algorithms. The focus is on model building, error analysis, and practical applications of the following algorithms:
 
 ## Table of Contents
-1. [Perceptron](#1_Model_Building_and_Error_Analysis)
-2. [Linear Regression](#2_Linear_Regression)
-3. [Gradient Descent](#3_Gradient_Descent)
-4. [Logistic Regression](#4_Logistic_Regression)
-5. [K-Nearest Neighbors](#5_K_Nearest_Neighbors)
-6. [Neural Network](#6_Neural_Network)
-7. [Support Vector Machines](#7_Support_Vector_Machine)
-8. [Decision Trees](#8_Decision_Trees)
-9. [Ensemble Learning](#9_Ensemble_Learning)
+- **Perceptron**
+- **Linear Regression**
+- **Gradient Descent**
+- **Logistic Regression**
+- **K-Nearest Neighbors**
+- **Neural Network**
+- **Support Vector Machines**
+- **Decision Trees**
+- **Ensemble Learning**
 
 
 
